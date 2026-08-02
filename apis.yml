@@ -1,8 +1,26 @@
 aid: ummeedhfc
-name: Ummeedhfc
-description: 'Ummeedhfc is a company surfaced as a portfolio company of norwest-venture-partners and added
-  to the API Evangelist network as a stub for enrichment. Sector: unknown. This profile is a lead awaiting
-  the enrichment pipeline.'
+name: Ummeed Housing Finance
+description: >-
+  Ummeed Housing Finance Pvt. Ltd. is an Indian affordable-housing finance
+  company registered with the National Housing Bank (NHB), providing home
+  loans, loans against property, business loans, and MSME business loans to
+  low- and middle-income households. Headquartered in Gurgaon, Haryana, it
+  operates 130+ branches across 9 states and has served 45,000+ families.
+  Backed by Norwest Venture Partners. Ummeed publishes no public developer
+  portal or API surface; its digital channels are the customer website and a
+  customer mobile app.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.ummeedhfc.com/themes/custom/ummeed/images/ummeedhfc-logo.png
 url: https://raw.githubusercontent.com/api-evangelist/ummeedhfc/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +30,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
-- Unknown
+- Housing Finance
+- Home Loans
+- Lending
+- Financial Services
+- MSME
+- India
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +48,22 @@ maintainers:
 common:
 - type: Website
   url: https://ummeedhfc.com
+- type: DomainSecurity
+  url: security/ummeedhfc-domain-security.yml
+- type: LLMsTxt
+  url: llms/ummeedhfc-llms.txt
+- type: Security
+  url: https://www.ummeedhfc.com/Infosec-Policy
+- type: PrivacyPolicy
+  url: https://www.ummeedhfc.com/privacy-policy
+- type: TermsOfService
+  url: https://www.ummeedhfc.com/terms-conditions
+- type: Support
+  url: https://www.ummeedhfc.com/contact-us
+- type: Blog
+  url: https://www.ummeedhfc.com/financial-literacy
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1

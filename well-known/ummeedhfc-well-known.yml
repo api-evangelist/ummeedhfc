@@ -1,0 +1,37 @@
+generated: '2026-07-21'
+method: probed
+source: live HTTP probes of https://ummeedhfc.com
+note: >-
+  ummeedhfc.com (Drupal) is a catch-all host - every path returns the
+  homepage HTML with HTTP 200 (soft 404). None of the well-known paths
+  below serve a real machine-readable file, so no raw files are saved
+  and no WellKnown/SecurityTxt pointers are wired.
+probes:
+- path: /.well-known/security.txt
+  status: 200
+  soft_404: true
+  found: false
+- path: /.well-known/openid-configuration
+  status: 200
+  soft_404: true
+  found: false
+- path: /.well-known/oauth-authorization-server
+  status: 200
+  soft_404: true
+  found: false
+- path: /.well-known/api-catalog
+  status: 200
+  soft_404: true
+  found: false
+- path: /.well-known/ai-plugin.json
+  status: 200
+  soft_404: true
+  found: false
+- path: /llms.txt
+  status: 200
+  soft_404: true
+  found: false
+- path: /security.txt
+  status: 200
+  soft_404: true
+  found: false

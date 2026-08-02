@@ -1,0 +1,38 @@
+# Ummeed Housing Finance
+
+> Ummeed Housing Finance Pvt. Ltd. is an Indian affordable-housing finance company registered with the National Housing Bank (NHB) under the National Housing Bank Act, 1987. It provides home loans, loans against property, business loans, and MSME business loans to low- and middle-income households across India, operating 130+ branches in 9 states with 45,000+ families served. Headquarters: Gurgaon (Gurugram), Haryana, India. Backed by Norwest Venture Partners.
+
+Ummeed Housing Finance publishes no public developer portal, API documentation,
+or machine-readable API artifacts. Its digital surface is a customer-facing
+website and a customer mobile app (Google Play: com.ummeedhfc.customer).
+
+## Products
+
+- [Home Loan](https://www.ummeedhfc.com/home-loan): Affordable housing loans for low-income segments
+- [Loan Against Property](https://www.ummeedhfc.com/loan-against-property): Loans against residential or commercial property
+- [Business Loan](https://www.ummeedhfc.com/business-loan): Small business financing
+- [MSME Business Loan](https://www.ummeedhfc.com/msme-business-loan): Loans for micro, small and medium enterprises
+- [Insurance Services](https://www.ummeedhfc.com/insurance-services): Insurance distribution alongside lending
+
+## Company
+
+- [Company Overview](https://www.ummeedhfc.com/company-overview): About Ummeed Housing Finance
+- [Investors](https://www.ummeedhfc.com/investors): Investor information
+- [Regulatory Disclosures](https://www.ummeedhfc.com/regulatory-disclosures): NHB/RBI regulatory disclosures
+- [Company Policies](https://www.ummeedhfc.com/company-policies): Published corporate policies
+- [Information Security Policy](https://www.ummeedhfc.com/Infosec-Policy): Infosec policy statement
+- [Privacy Policy](https://www.ummeedhfc.com/privacy-policy): Customer data privacy policy
+- [Terms & Conditions](https://www.ummeedhfc.com/terms-conditions): Website terms of use
+
+## Support
+
+- [Contact Us](https://www.ummeedhfc.com/contact-us): Customer care (customercare@ummeedhfc.com, 18002026127 toll free)
+- [FAQs](https://www.ummeedhfc.com/faqs): Frequently asked questions
+- [Grievance Redressal](https://www.ummeedhfc.com/grievance-redressal): Formal complaint escalation
+- [Branch Locator](https://www.ummeedhfc.com/branch-locator): 130+ branches across 9 states
+
+## Content
+
+- [Financial Literacy](https://www.ummeedhfc.com/financial-literacy): Financial education articles
+- [Newsletters](https://www.ummeedhfc.com/newsletter): Company newsletters
+- [Media](https://www.ummeedhfc.com/media): Press and media coverage
