@@ -47,7 +47,7 @@ tags:
 - Housing Finance
 - Home Loans
 - Lending
-- Financial-Services
+- Financial Services
 - MSME
 - India
 tags_raw:
@@ -58,6 +58,7 @@ tags_raw:
 - Financial Services
 - MSME
 - India
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
